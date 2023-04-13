@@ -47,3 +47,20 @@
         NEXT: 
 
         Install nodemon
+
+
+#### 1.4  Run the server using nodemon
+
+        Activities:
+
+        1. Install nodemon
+                λ npm install nodemon
+        2. modified:   package.json
+
+        Testing: λ npm run server
+
+        Result: :)
+
+        NEXT: 
+
+        Connect the application with MongoDb
