@@ -15,6 +15,15 @@
         Activities:
 
         1. Creating and modifying package.json file
-        > npm init --yes
-        
+        λ npm init --yes
+
+        2. modified:   README.md
+
+
+#### 1.2  Creating folder structure
+
+        Activities:
+
+        1. Creating folder structure and file server.js
+        λ mkdir config controllers middlewares model routes utils
         2. modified:   README.md
