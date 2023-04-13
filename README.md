@@ -25,5 +25,25 @@
         Activities:
 
         1. Creating folder structure and file server.js
-        λ mkdir config controllers middlewares model routes utils
+                λ mkdir config controllers middlewares model routes utils
         2. modified:   README.md
+
+
+#### 1.3  Creating server
+
+        Activities:
+
+        1. Create server.js
+        2. Install express
+                λ npm install express
+        3. Removed new file:   package-lock.json
+        4. modified:   package.json
+        5. modified:   README.md
+
+        Testing: run the server for the 1st time 
+                λ npm run start
+        Result: :)
+
+        NEXT: 
+
+        Install nodemon
