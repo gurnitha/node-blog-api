@@ -8,3 +8,13 @@
 
         1. Create and modified Github repository
         2. modified:   README.md
+
+
+#### 1.1  Creating package.json file
+
+        Activities:
+
+        1. Creating and modifying package.json file
+        > npm init --yes
+        
+        2. modified:   README.md

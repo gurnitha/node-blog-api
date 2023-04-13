@@ -1,0 +1,30 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "Blog API using Node js, Express js, and Mongodb",
+  "main": "server.js",
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurnitha/node-blog-api.git"
+  },
+
+  "keywords": [
+    "Node",
+    "js",
+    "Express",
+    "js",
+    "Mongodb",
+    "Mongoose"
+  ],
+  "author": "I Nyoman Gurnitha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurnitha/node-blog-api/issues"
+  },
+  "homepage": "https://github.com/gurnitha/node-blog-api#readme"
+}
